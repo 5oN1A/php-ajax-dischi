@@ -1,0 +1,30 @@
+nav {
+    background-color: #2b3a46;
+    height: 100px;
+}
+
+main {
+    background-color: #182d3b;
+    color: white;
+    font-size: 50px;
+}
+
+.card {
+    background-color: #2b3a46;
+    padding: 25px;
+    border-radius: 0;
+    height: 430px;
+}
+
+img {
+    border-radius: 0;
+}
+
+.card-title {
+    color: #fdfdfd;
+    text-transform: uppercase;
+}
+
+.card-text {
+    color: #606f76;
+}
